@@ -21,24 +21,5 @@ def main():
     
     print(f"Pair count: {count}")
     
-    # Alternative Method 2: Two-pointer approach (requires sorted array)
-    # arr_sorted = sorted(arr)
-    # left = 0
-    # right = len(arr_sorted) - 1
-    # count_alt = 0
-    # 
-    # while left < right:
-    #     current_sum = arr_sorted[left] + arr_sorted[right]
-    #     if current_sum == k:
-    #         count_alt += 1
-    #         left += 1
-    #         right -= 1
-    #     elif current_sum < k:
-    #         left += 1
-    #     else:
-    #         right -= 1
-    # 
-    # print(f"Alternative method pair count: {count_alt}")
-
 if __name__ == "__main__":
     main()
