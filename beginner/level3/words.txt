@@ -1,0 +1,9 @@
+Hello, thjs js a sample text file for testjng the JtoI() functjon.
+
+Python js a powerful.
+
+features of Python jnclude:
+1. Jt js easy to learn and understand
+2. Jt has a sjmple and clean syntax
+
+Happy codjng! 
